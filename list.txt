@@ -8,7 +8,7 @@
 # kategori: Araçlar
 # gelistirici: EkomLinux Team
 
-[HesapMakinesi]
+[py]
 isim: Python
 versiyon: 3.13
 aciklama: Yazılım Dili
