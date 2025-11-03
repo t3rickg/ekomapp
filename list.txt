@@ -1,2 +1,27 @@
-demo - demo.com
-demo2 - demo.com
+# EkomApp Uygulama Listesi
+# Format: [UygulamaID]
+# isim: Uygulama Adı
+# versiyon: 1.0
+# aciklama: Açıklama
+# indirme_linki: https://github.com/.../app.exe
+# dosya_boyutu: 2.3 MB
+# kategori: Araçlar
+# gelistirici: EkomLinux Team
+
+[HesapMakinesi]
+isim: Hesap Makinesi Pro
+versiyon: 1.0
+aciklama: Gelişmiş hesap makinesi uygulaması
+indirme_linki: https://github.com/t3rickg/ekomapp/releases/download/v1.0/HesapMakinesi.exe
+dosya_boyutu: 2.3 MB
+kategori: Araçlar
+gelistirici: EkomLinux Team
+
+[NotDefteri]
+isim: Not Defteri Plus
+versiyon: 1.2
+aciklama: Gelişmiş not defteri uygulaması
+indirme_linki: https://github.com/t3rickg/ekomapp/releases/download/v1.2/NotDefteri.exe
+dosya_boyutu: 1.8 MB
+kategori: Araçlar
+gelistirici: EkomLinux Team
