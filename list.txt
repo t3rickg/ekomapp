@@ -1,9 +1,9 @@
-[Python]
-isim: Python
-versiyon: 3.13
-aciklama: Yazılım Dili
-indirme_linki: https://uc798768be731771e4b42dc1b70a.dl.dropboxusercontent.com/cd/0/get/C0fieUDeGFSJoECi0RYNLwKu0N-3Jogx5jzEhUxfbuPP4zZkL1II-kDYpcbHpxpsCmfgoxVrx4oHcSptZvPHPUO5Fa4YOCQCOBjxj2u0za0QhHkv2anV7jhWILLDePlTGlgY7xhLE5s54MrRTbnUiXZvP9aGqS_IqgQ6CrUO9lQFWw/file?_download_id=6247477697755286298747808043196349392333951088739173398361205414&_log_download_success=1#
-dosya_boyutu: 28 MB
+[Egitim]
+isim: EkomCode
+versiyon: v1.0
+aciklama: Yazılım Egitimi
+indirme_linki: https://raw.githubusercontent.com/t3rickg/ekomapp/main/ekomcode.py
+dosya_boyutu: 1 MB
 kategori: Yazılım
-gelistirici: Python
+gelistirici: EkomCode
 
